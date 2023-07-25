@@ -42,6 +42,7 @@ Hacer las credenciales accesibles para Terraform
 gcloud auth application-default login
 ```
 
+
 ### 3. Comandos básicos de Terraform
 
 Para el ejemplo, debemos activar la API de Compute Engine
